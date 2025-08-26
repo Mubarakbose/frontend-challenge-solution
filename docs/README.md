@@ -1,4 +1,3 @@
-````markdown
 # Frontend Developer Challenge Solution
 
 A modern React TypeScript application demonstrating full CRUD operations with a clean, responsive UI and Docker containerization.
@@ -256,10 +255,6 @@ This project is open source and available under the [MIT License](LICENSE).
 - [ ] Internationalization (i18n)
 - [ ] Progressive Web App (PWA) features
 
----
 
 **Built with ❤️ using React, TypeScript, and modern web technologies.**
 
-```
-
-```
