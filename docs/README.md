@@ -39,7 +39,6 @@ A modern React TypeScript application demonstrating full CRUD operations with a 
    git clone https://github.com/Mubarakbose/frontend-challenge-solution.git
    cd frontend-challenge-solution
    ```
-````
 
 2. **Install dependencies**
 
